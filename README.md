@@ -3,7 +3,7 @@
 ## Summary
 
 What good is data without a good plot to tell the story?
-Use Python (pandas) and Matplotlib to analyze real-world situations and create scatter plots and a bar graph to visualize a [comparison](drug_efficacy_comparison.png) and [final results](tumor_metastatic_survival_plots.png).
+Use Python (pandas) and Matplotlib to analyze real-world situations and create scatter plots and a bar graph to visualize a [comparison](Images/drug_efficacy_comparison.png) and [results](Images/tumor_metastatic_survival_plots.png).
 
 ## Pymaceuticals Inc 
 
